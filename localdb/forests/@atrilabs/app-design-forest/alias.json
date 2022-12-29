@@ -1,0 +1,15 @@
+{
+  "Flex": 57,
+  "TextBox": 63,
+  "Link": 17,
+  "Button": 13,
+  "Modal": 2,
+  "Form": 2,
+  "Image": 21,
+  "Icon": 22,
+  "Div": 1,
+  "Carousel": 1,
+  "Step": 5,
+  "Input": 9,
+  "Overlay": 1
+}
