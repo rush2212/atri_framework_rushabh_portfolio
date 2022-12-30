@@ -1,15 +1,16 @@
 {
-  "Flex": 57,
-  "TextBox": 63,
+  "Flex": 375,
+  "TextBox": 432,
   "Link": 17,
-  "Button": 13,
+  "Button": 101,
   "Modal": 2,
   "Form": 2,
-  "Image": 21,
+  "Image": 82,
   "Icon": 22,
-  "Div": 1,
+  "Div": 2,
   "Carousel": 1,
   "Step": 5,
   "Input": 9,
-  "Overlay": 1
+  "Overlay": 2,
+  "Accordion": 1
 }
